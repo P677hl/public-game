@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+}
+.footer {
+  clear: both;
+  background-color: #fff;
+  padding: 0px 5px;
+  font-family: Sans-Serif;
+  font-size: 15px;
+}
+.footer a {
+  text-decoration: none;
+}
